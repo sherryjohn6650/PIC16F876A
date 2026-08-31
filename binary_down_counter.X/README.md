@@ -1,0 +1,1 @@
+This PIC microcontroller C program implements a debounced 8-bit countdown timer (255 down to 0) displayed on PORTB using the XC8 compiler and a 4MHz XT oscillator. It features an interactive pause/resume toggle controlled by a push-button attached to input pin RC0, utilizing a software debounce delay to freeze or resume the 500ms decrement loop dynamically.
